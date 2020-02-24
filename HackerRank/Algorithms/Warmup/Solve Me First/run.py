@@ -1,7 +1,9 @@
+#!/bin/python3
 
+# https://www.hackerrank.com/challenges/solve-me-first/problem
 
 def solveMeFirst(a,b):
-	# Hint: Type return a+b below
+	""" Returns sum of two integers. """
     return a+b
 
 if __name__ == '__main__':
